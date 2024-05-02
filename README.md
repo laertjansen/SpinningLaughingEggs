@@ -1,4 +1,4 @@
-An experimental project exploring an Arduino Uno, a continuous rotation servo, plastic egg toys, and googly eyes.
+An experimental project exploring an Arduino Uno, a continuous rotation servo, an LED RGB, plastic egg toys, and googly eyes.
 
 What you'll need:
 
