@@ -14,3 +14,5 @@ What you'll need:
 ![IMG_8229](https://github.com/laertjansen/SpinningLaughingEggs/assets/34003432/781b6df8-6ae2-47e3-ac25-1e5d24b39444)
 
 ![IMG_8232](https://github.com/laertjansen/SpinningLaughingEggs/assets/34003432/4724faf3-5384-4c29-be22-706b5a9970bd)
+
+![IMG_8235](https://github.com/laertjansen/SpinningLaughingEggs/assets/34003432/b9b236dc-5211-4bb3-b2d5-feabf3971a33)
